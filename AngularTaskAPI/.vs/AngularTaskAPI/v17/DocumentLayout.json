@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\AngularTask\\AngularTaskAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27EF9215-EB7C-4AF5-ABAC-490E3CCA5884}|AngularTaskAPI\\AngularTaskAPI.csproj|c:\\users\\lenovo\\angulartask\\angulartaskapi\\angulartaskapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EF9215-EB7C-4AF5-ABAC-490E3CCA5884}|AngularTaskAPI\\AngularTaskAPI.csproj|solutionrelative:angulartaskapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EF9215-EB7C-4AF5-ABAC-490E3CCA5884}|AngularTaskAPI\\AngularTaskAPI.csproj|c:\\users\\lenovo\\angulartask\\angulartaskapi\\angulartaskapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EF9215-EB7C-4AF5-ABAC-490E3CCA5884}|AngularTaskAPI\\AngularTaskAPI.csproj|solutionrelative:angulartaskapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EF9215-EB7C-4AF5-ABAC-490E3CCA5884}|AngularTaskAPI\\AngularTaskAPI.csproj|c:\\users\\lenovo\\angulartask\\angulartaskapi\\angulartaskapi\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EF9215-EB7C-4AF5-ABAC-490E3CCA5884}|AngularTaskAPI\\AngularTaskAPI.csproj|solutionrelative:angulartaskapi\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EF9215-EB7C-4AF5-ABAC-490E3CCA5884}|AngularTaskAPI\\AngularTaskAPI.csproj|c:\\users\\lenovo\\angulartask\\angulartaskapi\\angulartaskapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{27EF9215-EB7C-4AF5-ABAC-490E3CCA5884}|AngularTaskAPI\\AngularTaskAPI.csproj|solutionrelative:angulartaskapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EF9215-EB7C-4AF5-ABAC-490E3CCA5884}|AngularTaskAPI\\AngularTaskAPI.csproj|c:\\users\\lenovo\\angulartask\\angulartaskapi\\angulartaskapi\\migrations\\20240424153719_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EF9215-EB7C-4AF5-ABAC-490E3CCA5884}|AngularTaskAPI\\AngularTaskAPI.csproj|solutionrelative:angulartaskapi\\migrations\\20240424153719_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EF9215-EB7C-4AF5-ABAC-490E3CCA5884}|AngularTaskAPI\\AngularTaskAPI.csproj|c:\\users\\lenovo\\angulartask\\angulartaskapi\\angulartaskapi\\angulartaskapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{27EF9215-EB7C-4AF5-ABAC-490E3CCA5884}|AngularTaskAPI\\AngularTaskAPI.csproj|solutionrelative:angulartaskapi\\angulartaskapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EF9215-EB7C-4AF5-ABAC-490E3CCA5884}|AngularTaskAPI\\AngularTaskAPI.csproj|c:\\users\\lenovo\\angulartask\\angulartaskapi\\angulartaskapi\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EF9215-EB7C-4AF5-ABAC-490E3CCA5884}|AngularTaskAPI\\AngularTaskAPI.csproj|solutionrelative:angulartaskapi\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240424153719_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\AngularTask\\AngularTaskAPI\\AngularTaskAPI\\Migrations\\20240424153719_Initial.cs",
+              "RelativeDocumentMoniker": "AngularTaskAPI\\Migrations\\20240424153719_Initial.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\AngularTask\\AngularTaskAPI\\AngularTaskAPI\\Migrations\\20240424153719_Initial.cs",
+              "RelativeToolTip": "AngularTaskAPI\\Migrations\\20240424153719_Initial.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T15:37:41.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AngularTaskAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\AngularTask\\AngularTaskAPI\\AngularTaskAPI\\AngularTaskAPI.csproj",
+              "RelativeDocumentMoniker": "AngularTaskAPI\\AngularTaskAPI.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\AngularTask\\AngularTaskAPI\\AngularTaskAPI\\AngularTaskAPI.csproj",
+              "RelativeToolTip": "AngularTaskAPI\\AngularTaskAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-24T15:23:19.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\AngularTask\\AngularTaskAPI\\AngularTaskAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AngularTaskAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\AngularTask\\AngularTaskAPI\\AngularTaskAPI\\appsettings.json",
+              "RelativeToolTip": "AngularTaskAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-24T15:12:52.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\AngularTask\\AngularTaskAPI\\AngularTaskAPI\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "AngularTaskAPI\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\AngularTask\\AngularTaskAPI\\AngularTaskAPI\\Data\\DataContext.cs",
+              "RelativeToolTip": "AngularTaskAPI\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T15:02:09.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\AngularTask\\AngularTaskAPI\\AngularTaskAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AngularTaskAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\AngularTask\\AngularTaskAPI\\AngularTaskAPI\\Program.cs",
+              "RelativeToolTip": "AngularTaskAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T12:44:55.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\AngularTask\\AngularTaskAPI\\AngularTaskAPI\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "AngularTaskAPI\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\AngularTask\\AngularTaskAPI\\AngularTaskAPI\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "AngularTaskAPI\\Controllers\\TaskController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAYwCkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T06:24:45.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\AngularTask\\AngularTaskAPI\\AngularTaskAPI\\Task.cs",
+              "RelativeDocumentMoniker": "AngularTaskAPI\\Task.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\AngularTask\\AngularTaskAPI\\AngularTaskAPI\\Task.cs",
+              "RelativeToolTip": "AngularTaskAPI\\Task.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T06:11:03.446Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
